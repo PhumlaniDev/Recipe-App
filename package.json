@@ -1,7 +1,7 @@
 {
 	"name": "goal",
 	"version": "1.0.0",
-	"description": "This is the goal app where people can get food goals.",
+	"description": "This is the goal app where people can get set their goals.",
 	"main": "server.js",
 	"scripts": {
 		"start": "node backend/server.js",
